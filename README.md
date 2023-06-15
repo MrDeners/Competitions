@@ -1,2 +1,2 @@
 # Competitions
-Projects written while participating in programming competitions
+## Projects written while participating in programming competitions
